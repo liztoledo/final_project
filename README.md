@@ -13,7 +13,7 @@ Here is some text and I want to create a [data used in The Pudding essay Beauty 
 * Second Item
 * Third Item
 
-![Picture of a cat](https://placekitten.com/400/300)
+![Picture of a cat](https://media.journalism.berkeley.edu/upload/2020/08/15971832006a769bd.png)
 
 Here is some text.
 
