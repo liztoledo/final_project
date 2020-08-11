@@ -22,7 +22,19 @@ More text.
 The formula I used was: 
 
 ```
-=VLOOKUP("Something", A2:157, 1, false)
+=VLOOKUP(I2, 'L-categorization'!$A$2:$B$101, 2, FALSE)
+```
+
+```
+=VLOOKUP(K2, 'analysis-group'!$A$2:$B$9, 2, FALSE)
+```
+
+```
+=VLOOKUP(A2, 'price-range'!$A$2:$B$37, 2, FALSE)
+```
+
+```
+=VLOOKUP(A2, 'product-availability'!$A$2:$B$37, 2, FALSE)
 ```
 
 <iframe title="Drugstore or High End?" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
