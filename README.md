@@ -78,13 +78,19 @@ Drug Store brands are not exclusive from that of foreign or higher end brands. I
 
 
 
-## Drugstore vs High End
+## So what will it be? High end or Drug Store?
 
 Overall, this data exploration motivated me to look more into the two foundation products that are most definitely considered THE "cultural reset" of the beauty community in the 2010's.
 <iframe title="Drugstore (Maybelline Fit Me) vs High End (Fenti Pro Filt'r)" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+There is no question Rihanna's work was and continues to be monumental, but here the data does not lie. It appears Maybelline decided to appeal more to darker shades, which as a drug store product is pretty hard to find. Nevertheless, the Maybelline Fit Me foundation is still not evenly distributed. Maybelline instead cut back on some of their lighter shades in order to fit 1 more Medium, Medium-Dark, and Dark shades in comparison to Fenty.
 
 
+For my last question I hoped to find out if BIPOC founders were the answer to diversity and inclusion in makeup. With the exception of Maybelline, I found most drug store products did not have much shade range and as a result made me look ashy. I was also curious about how many BIPOC founders were involved in the makeup industry. Of course, this data set is limited, so I know it may not be fully representative. However, it does include some of the most popular brand names, which can be telling of what the actual set would look like. 
 <iframe title="Makeup Brand Founder's Ethnic Background and Price Range (Brands available in the US)" aria-label="chart" id="datawrapper-chart-pHUi0" src="https://datawrapper.dwcdn.net/pHUi0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+As for my thoughts about the chart above, I know that at first glance it may seem like more BIPOC founders decide to go for the High End price range route. If I were to leave my analysis at that, however, I would fail to recognize the struggle that exists to create a brand, especially when you come from a background that is traditionally not afforded with the same economic or social opportunites and resources.
+
+Finally, I have found this data useful to finally decide which drugstore and higher end foundations are worth a try. And eventually which foreign makeup brands to explore more. It's important that darker complexion people feel and find a variety of choices since they are too often neglected in various aspects of society. Makeup can be a source of comfort, empowerment, and creativity. I believe that no one should be neglected those opportunities.
