@@ -1,7 +1,7 @@
 # Makeup for all? A look into the diversity of shades, price points, and accessibility for foundations.
 #### Final Project for Liz Toledo
 
-I love makeup and even though I may not be the biggest expert or the least knowledgeable person on the subject, I know that the availability of shade range over the course of history is most connected to ingrained anti-blackness. Therefore, the shade range is not as vast as it really should be. 
+For as long as I can remember, makeup has been a big part of my life. From watching my mother apply makeup every morning when I was a toddler to finally applying a sharp black eyeliner wing. Makeup is increasingly becoming more diverse and inclusive than it used to be in terms of the founders, trends, audience, and the products themselves. To those that are not as familiar with makeup, the entire process can be real complicated. And as if weren't precise or complicated enough, finding a foundation shade is ESSENTIAL. However, shade range has bee historicallyI know that the availability of shade range over the course of history is most connected to ingrained anti-blackness. Therefore, the shade range is not as vast as it really should be. 
 
 [Makeup data on Github](https://github.com/the-pudding/data/tree/master/makeup-shades).
 
@@ -36,7 +36,6 @@ Initially, I planned to use a dataset from one of the given sources, but I could
 
 ## Drugstore vs High End
 
-### Fenti vs Maybelline
 <iframe title="Drugstore or High End?" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
