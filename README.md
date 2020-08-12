@@ -35,7 +35,11 @@ In order to connect the data I researched separately, I found it most helpful to
 =VLOOKUP(A2, 'product-availability'!$A$2:$B$37, 2, FALSE)
 ```
 
+## Foundation Range Overall
 
+This data set included products and brands known in the US and abroad such as Nigeria, Japan, and India. That being said, it is reasonable that some of these Foreign brands appeal to their consumers and make shades that make most sense to their population. Nevertheless, anti-blackness is still a prevelant issue that is worth mentioning when analyzing the ranges as a whole. 
+
+The numbers are categorized by a lightness variable. The lighter the foundation shade is, the higher the number is because the scale goes from 1-100.
 
 <iframe title="Foundation Shade Range of Popular Brands in the US and Abroad" aria-label="Range Plot" id="datawrapper-chart-vgXp0" src="https://datawrapper.dwcdn.net/vgXp0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="774"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
