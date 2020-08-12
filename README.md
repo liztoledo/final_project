@@ -1,15 +1,21 @@
 # Makeup for all? A look into the diversity of shades, price points, and accessibility for foundations.
 #### Final Project for Liz Toledo
 
-For as long as I can remember, makeup has been a big part of my life. From watching my mother apply makeup every morning when I was a toddler to finally applying a sharp black eyeliner wing. Makeup is increasingly becoming more diverse and inclusive than it used to be in terms of the founders, trends, audience, and the products themselves. To those that are not as familiar with makeup, the entire process can be real complicated. And as if weren't precise or complicated enough, finding a foundation shade is ESSENTIAL. However, shade range has bee historicallyI know that the availability of shade range over the course of history is most connected to ingrained anti-blackness. Therefore, the shade range is not as vast as it really should be. 
+
+### My Relationship to Makeup
+For as long as I can remember, makeup has been a big part of my life. From watching my mother apply makeup every morning when I was a toddler to finally applying a sharp black eyeliner wing. Makeup is increasingly becoming more diverse and inclusive than it used to be in terms of the founders, trends, audience, and the products themselves. To those that are not as familiar with makeup, the entire process can be real complicated. And as if weren't precise or complicated enough, finding a foundation shade is ESSENTIAL. However, shade range has been historically skewed more towards lighter shades for reasons I may not go into full detail, but are part of Western society's ingrained anti-blackness. 
+
+Now a days though, it seems like diversity and inclusiviy is a conversation that is taking place much more than it did before in the beauty community. From what I can remember, Rihanna's Fenty Beauty launch made headlines in 2017 for releasing 40 "Pro Filt'r" shades at once and having a wide range. Up until that point, not many makeup brands had achieved what Rihanna did for her brand's release. In fact, the drug store favorite Maybelline "Fit Me" launched more shades around the same time as the Fenty Beauty release, most of which were darker shades.
+
+As makeup user, I recognize foundation can be one of the trickiest products to match to one's skin. It can either be great or a flop. Growing up, I used to be tanner and darker than I am today. I remember not being able to find an affordable foundation for me, unless I accompanied my mom to MAC for some samples. Because I am not as skilled or have the sufficient funds to splurge I had to learn to be choosy about which foundations where worth it in regards to size, color match, price, and now the brand's beliefs. I figured, if it was somewhat hard for me to find a color match, it's probably even harder for darker complexions to find a match at an affordable price if that.
+
+### My Data Analysis Process
+
+Initially, I planned to use a dataset from one of the given sources, but I couldn't find one that caught my eye as much as this one. I came across this dataset through a publication on the internet and to my surprise the 
 
 [Makeup data on Github](https://github.com/the-pudding/data/tree/master/makeup-shades).
 
 Here is some text and I want to create a [data used in The Pudding essay Beauty Brawl published in June 2018](https://pudding.cool/2018/06/makeup-shades/).
-
-
-### My Data Analysis Process
-Initially, I planned to use a dataset from one of the given sources, but I couldn't find one that caught my eye as much as this one. I came across this dataset through a publication on the internet and to my surprise the 
 
 ![Screenshot of Google Spreadsheets with list of extra sheets added by me.](https://media.journalism.berkeley.edu/upload/2020/08/15971832006a769bd.png)
 
