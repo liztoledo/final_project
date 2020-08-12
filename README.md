@@ -35,6 +35,18 @@ In order to connect the data I researched separately, I found it most helpful to
 =VLOOKUP(A2, 'product-availability'!$A$2:$B$37, 2, FALSE)
 ```
 
+## Lighness Categorization
+
+Before I continue with the rest of the analysis, it is worth noting that this lightness categorization system will be helpful in better interpreting my points about shade range and lightness categorization. Hopefully, this isn't too confusing, but if it is feel free to look at the csv file.
+
+| Lightness     | Category      |   
+| ------------- |:-------------:|
+| 0-20          | dark          | 
+| 21-40         | medium-dark   | 
+| 41-60         | medium        |
+| 61-80         | light-medium  | 
+| 81-100        | light        | 
+
 ## Foundation Range Overall
 
 This data set included products and brands known in the US and abroad such as Nigeria, Japan, and India. That being said, it is reasonable that some of these Foreign brands appeal to their consumers and make shades that make most sense to their population. Nevertheless, anti-blackness is still a prevelant issue that is worth mentioning when analyzing the ranges as a whole. 
@@ -47,20 +59,32 @@ The numbers are categorized by a lightness variable. The lighter the foundation 
 
 ## Availability to US Consumers
 
+In the following chart, we are able to see much more up close what I was mentioning about the lack of shade range especially in Indian and Japanese bestselling brands.
 
 <iframe title="Foreign Brand Lightness Range" aria-label="chart" id="datawrapper-chart-Qmeqy" src="https://datawrapper.dwcdn.net/Qmeqy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
+In the following chart, we begin to see a trend as to what is sold at well-known Beauty retailers. In an era of social media, online sites like Ulta or Sephora manages much of what is talked about by Beauty Gurus. Products sold at these places are more times than not considered "high end."
+
 <iframe title="Online Brands and Other Brands Available at Ulta/Sephora" aria-label="chart" id="datawrapper-chart-BAMWH" src="https://datawrapper.dwcdn.net/BAMWH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+
+Drug Store brands are not exclusive from that of foreign or higher end brands. In the beauty community, consumers often try to find a "dupe." A "dupe" is a lesser expensive product that can has similarities to higher end products. Therefore, I found it interesting that even though not all drugstore brands are not listed in this chart, the shade range did seem hopeful.
 
 <iframe title="Drug Store Brand Lightness Range" aria-label="chart" id="datawrapper-chart-tqlWV" src="https://datawrapper.dwcdn.net/tqlWV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="797"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
+
 ## Drugstore vs High End
+
+Overall, this data exploration motivated me to look more into the two foundation products that are most definitely considered THE "cultural reset" of the beauty community in the 2010's.
 <iframe title="Drugstore (Maybelline Fit Me) vs High End (Fenti Pro Filt'r)" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+
 
 <iframe title="Makeup Brand Founder's Ethnic Background and Price Range (Brands available in the US)" aria-label="chart" id="datawrapper-chart-pHUi0" src="https://datawrapper.dwcdn.net/pHUi0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
