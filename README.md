@@ -41,14 +41,7 @@ In order to connect the data I researched separately, I found it most helpful to
 </script>
 
 
-## Drugstore vs High End
-
-<iframe title="Drugstore or High End?" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-
-<iframe title="Drug Store Brand Lightness Range" aria-label="chart" id="datawrapper-chart-tqlWV" src="https://datawrapper.dwcdn.net/tqlWV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="797"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+## Availability to US Consumers
 
 
 <iframe title="Foreign Brand Lightness Range" aria-label="chart" id="datawrapper-chart-Qmeqy" src="https://datawrapper.dwcdn.net/Qmeqy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -58,9 +51,12 @@ In order to connect the data I researched separately, I found it most helpful to
 <iframe title="Online Brands and Other Brands Available at Ulta/Sephora" aria-label="chart" id="datawrapper-chart-BAMWH" src="https://datawrapper.dwcdn.net/BAMWH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<iframe title="Drug Store Brand Lightness Range" aria-label="chart" id="datawrapper-chart-tqlWV" src="https://datawrapper.dwcdn.net/tqlWV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="797"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## Drugstore vs High End
+<iframe title="Drugstore (Maybelline Fit Me) vs High End (Fenti Pro Filt'r)" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 <iframe title="Makeup Brand Founder's Ethnic Background and Price Range (Brands available in the US)" aria-label="chart" id="datawrapper-chart-pHUi0" src="https://datawrapper.dwcdn.net/pHUi0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-
-![Screenshot of Google Spreadsheets with list of extra sheets added by me.](https://media.journalism.berkeley.edu/upload/2020/08/1597208800a9ff243.png)
