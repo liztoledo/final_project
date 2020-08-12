@@ -16,25 +16,26 @@ Initially, I planned to use a dataset from one of the given sources, but I could
 * The Pudding "[Diversity of Makeup Shades](https://pudding.cool/2018/06/makeup-shades/)" published in 2018
 * Link to Makeup Data Used for the publication on [Github](https://github.com/the-pudding/data/tree/master/makeup-shades).
 
+The Original data only contained one sheet, which was the "shades" sheet pictured below. Given my multiple analysis questions though, I decided to create separate sheets to include critical pieces of data such as the the price range of the products (respective to their countries), where/how the product can be bought, and a system to categorize the lightness range.
+
 
 ![Screenshot of Google Spreadsheets with list of extra sheets added by me.](https://media.journalism.berkeley.edu/upload/2020/08/15971832006a769bd.png)
 
-
+In order to connect the data I researched separately, I found it most helpful to use the following formulas:
 ```
 =VLOOKUP(I2, 'L-categorization'!$A$2:$B$101, 2, FALSE)
 ```
-
 ```
 =VLOOKUP(K2, 'analysis-group'!$A$2:$B$9, 2, FALSE)
 ```
-
 ```
 =VLOOKUP(A2, 'price-range'!$A$2:$B$37, 2, FALSE)
 ```
-
 ```
 =VLOOKUP(A2, 'product-availability'!$A$2:$B$37, 2, FALSE)
 ```
+
+
 
 <iframe title="Foundation Shade Range of Popular Brands in the US and Abroad" aria-label="Range Plot" id="datawrapper-chart-vgXp0" src="https://datawrapper.dwcdn.net/vgXp0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="774"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
