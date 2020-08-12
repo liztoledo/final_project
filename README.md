@@ -11,11 +11,11 @@ As makeup user, I recognize foundation can be one of the trickiest products to m
 
 ### My Data Analysis Process
 
-Initially, I planned to use a dataset from one of the given sources, but I couldn't find one that caught my eye as much as this one. I came across this dataset through a publication on the internet and to my surprise the 
+Initially, I planned to use a dataset from one of the given sources, but I couldn't find one that caught my eye as much as this one. I came across this dataset through a publication on the internet and to my surprise they linked their data at the very bottom. 
 
-[Makeup data on Github](https://github.com/the-pudding/data/tree/master/makeup-shades).
+* The Pudding "[Diversity of Makeup Shades](https://pudding.cool/2018/06/makeup-shades/)" published in 2018
+* Link to Makeup Data Used for the publication on [Github](https://github.com/the-pudding/data/tree/master/makeup-shades).
 
-Here is some text and I want to create a [data used in The Pudding essay Beauty Brawl published in June 2018](https://pudding.cool/2018/06/makeup-shades/).
 
 ![Screenshot of Google Spreadsheets with list of extra sheets added by me.](https://media.journalism.berkeley.edu/upload/2020/08/15971832006a769bd.png)
 
