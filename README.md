@@ -34,9 +34,15 @@ Initially, I planned to use a dataset from one of the given sources, but I could
 
 <iframe title="Drug Store Brand Lightness Range" aria-label="chart" id="datawrapper-chart-tqlWV" src="https://datawrapper.dwcdn.net/tqlWV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="797"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+
 <iframe title="Foreign Brand Lightness Range" aria-label="chart" id="datawrapper-chart-Qmeqy" src="https://datawrapper.dwcdn.net/Qmeqy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-Fenti vs Maybelline
+
+<iframe title="Online Brands and Other Brands Available at Ulta/Sephora" aria-label="chart" id="datawrapper-chart-BAMWH" src="https://datawrapper.dwcdn.net/BAMWH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## Fenti vs Maybelline
 <iframe title="Drugstore or High End?" aria-label="chart" id="datawrapper-chart-CUcqY" src="https://datawrapper.dwcdn.net/CUcqY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
