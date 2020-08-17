@@ -35,7 +35,7 @@ In order to connect the data I researched separately, I found it most helpful to
 =VLOOKUP(A2, 'product-availability'!$A$2:$B$37, 2, FALSE)
 ```
 
-## Lighness Categorization
+## Lightness Categorization
 
 Before I continue with the rest of the analysis, it is worth noting that this lightness categorization system will be helpful in better interpreting my points about shade range and lightness categorization. Hopefully, this isn't too confusing, but if it is feel free to look at the csv file.
 
